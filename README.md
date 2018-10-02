@@ -10,6 +10,12 @@ Create Jupyter Notebook file called `data_engineering.ipynb` and use this to com
 
 PART II: Database Engineering<br>
 
+
+
 PART III: Data Analysis<br>
+
+![GitHub Logo](/images/logo.png)
+
+
 
 PART IV: Flask App<br>
