@@ -14,7 +14,7 @@ PART II: Database Engineering<br>
 
 PART III: Data Analysis<br>
 
-https://github.com/erikku0519/Advanced-DataStorage-and-Retrieval-Challenge/blob/master/Station_Analysis_for_Station.png
+![Image of Station Analysis](https://github.com/erikku0519/Advanced-DataStorage-and-Retrieval-Challenge/blob/master/Station_Analysis_for_Station.png)
 
 
 
