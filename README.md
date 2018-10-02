@@ -40,11 +40,11 @@ PART III: Data Analysis<br>
 PART IV: Flask App<br>
 * Database Set-up
 * Flask Set-Up
-* Flask Routes
-- @app.route("/")<br>
-- @app.route("/api/v1.0/precipitation")<br>
-- @app.route("/api/v1.0/stations")<br>
-- @app.route("/api/v1.0/tobs")<br>
-- @app.route("/api/v1.0/temp/<start>")<br>
-- @app.route("/api/v1.0/temp/<start>/<end>")<br>
+* Flask Routes:<br>
+@app.route("/")<br>
+@app.route("/api/v1.0/precipitation")<br>
+@app.route("/api/v1.0/stations")<br>
+@app.route("/api/v1.0/tobs")<br>
+@app.route("/api/v1.0/temp/<start>")<br>
+@app.route("/api/v1.0/temp/<start>/<end>")<br>
 
