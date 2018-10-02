@@ -13,10 +13,23 @@ PART I: Data Engineering<br>
 PART II: Database Engineering<br>
 * Create Engine and connections string for database Hawaii.sqlite<br>
 * Create Measurement and Stations classes<br>
-* Create Jupyter Notebook file called database_engineering.ipynb<br>
+* Create Jupyter Notebook file called `database_engineering.ipynb`<br>
 <br>
 
 PART III: Data Analysis<br>
+* Setting Up Database<br>
+* Create table in database & Start Session<br>
+* Reflect an existing database into a new model<br>
+* Use Base Class to reflect database tables<br>
+* Classes mapped in database<<br>
+* Upload Measurement & Inspect the table<br>
+* Upload Stations & Inspect the table<br>
+* Save references to each table <br>
+* Design a query to retrieve the last 12 months of precipitation data and plot the results <br>
+* Save the query results as a Pandas DataFrame and set the index to the date column<br>
+* Use Pandas Plotting with Matplotlib to plot the data<br>
+* Use Pandas to calcualte the summary statistics for the precipitation data<br>
+* Using the station id from the previous query, calculate the lowest temperature recorded, highest temperature recorded, and average temperature most active station <br>
 
 ![Image of Precipitation Analysis](https://github.com/erikku0519/Advanced-DataStorage-and-Retrieval-Challenge/blob/master/Precipitation_Analysis.png)
 
